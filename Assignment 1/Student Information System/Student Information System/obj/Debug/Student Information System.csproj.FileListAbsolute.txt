@@ -17,3 +17,10 @@ C:\Users\Qurzu\Desktop\Student Information System\Student Information System\obj
 C:\Users\Qurzu\Desktop\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
 C:\Users\Qurzu\Desktop\Student Information System\Student Information System\obj\Debug\Student Information System.exe
 C:\Users\Qurzu\Desktop\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 1\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 1\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 1\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 1\Student Information System\Student Information System\obj\Debug\Student Information System.csprojResolveAssemblyReference.cache
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 1\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 1\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 1\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
