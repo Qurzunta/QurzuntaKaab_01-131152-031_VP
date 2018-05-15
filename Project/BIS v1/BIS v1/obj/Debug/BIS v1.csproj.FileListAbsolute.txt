@@ -1,9 +1,0 @@
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\bin\BIS v1.dll.config
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\bin\BIS v1.dll
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\bin\BIS v1.pdb
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\obj\Debug\BIS v1.csproj.CoreCompileInputs.cache
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\obj\Debug\BIS v1.dll
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\obj\Debug\BIS v1.pdb
-C:\Users\Qurzu\source\repos\BIS v1\BIS v1\obj\Debug\BIS v1.csprojResolveAssemblyReference.cache
