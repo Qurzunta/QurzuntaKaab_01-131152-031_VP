@@ -1,0 +1,17 @@
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\bin\Debug\Student Information System GUI.exe.config
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\bin\Debug\Student Information System GUI.exe
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\bin\Debug\Student Information System GUI.pdb
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.CreateStudent.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.DeleteStudent.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.Login.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.MainMenu.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.MarkAttendance.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.Properties.Resources.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.SearchStudent.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.TopStudents.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student_Information_System_GUI.ViewAttendance.resources
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student Information System GUI.csproj.GenerateResource.Cache
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student Information System GUI.csproj.CoreCompileInputs.cache
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student Information System GUI.exe
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student Information System GUI.pdb
+E:\VP Repository\QurzuntaKaab_01-131152-031_VP\Assignment 2\Student Information System GUI\Student Information System GUI\obj\Debug\Student Information System GUI.csprojResolveAssemblyReference.cache
